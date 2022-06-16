@@ -10,7 +10,7 @@
 <img align="right" height="100" src="https://c.tenor.com/vxSmpO9Buq0AAAAC/goofy-binoculars.gif"  />
 
 ###
-<p align="left">• 🔥 Working daily with C# .Net, Angular, MS SQL Server being that what I have the most experience with.<br>• ⚡ At the moment I'm trying to develop more independent projects to try new technologies and new development patterns!<br>• 📚 Always looking for new things to try myself and to be in love with, like new Progamming languages 😊.<br>•  🚀 Looking for working internationally one day!</p>
+<p align="left">• 🔥 Working daily with C# .Net, Angular, MS SQL Server being that what I have the most experience with.<br>• ⚡ At the moment I'm trying to develop more independent projects to try new technologies and new development patterns!<br>• 📚 Always looking for new things to try myself and to be in love with, like new Progamming languages 😊<br>•  🚀 Looking for working internationally one day!</p>
 
 ###
 <h2 align="left">Dominant technology 🛠</h2>
